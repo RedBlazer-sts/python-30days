@@ -54,4 +54,4 @@ while True:
         print("Division is ",div(*converted_num))
 
 
-    if operation_request == "q" : break# Final layout optimization
+    if operation_request == "q" : break
