@@ -25,6 +25,10 @@ Started my Python journey to build a rock-solid foundation and level up my devel
   * used function to reuse a block code without writing ot again and again
   * Used types hints and docstring in code for better readable code for others.
 
+### 📁 Day 03(Part Two)
+* **`Guess_number_game.py`
+  * Buit a recursive guessing number game where user guess a secret number chosen by the computer 
+
 ---
 
 ## 🧠 What I Learned
@@ -32,3 +36,4 @@ Started my Python journey to build a rock-solid foundation and level up my devel
 * **Day 01:** Basic operators, basic syntax and how setting up python environment.
 * **Day 02:** Implementing nested loops paired with conditional layouts (`if/elif/else`) to parse and evaluate text structures step-by-step.
 * **Day 03:** Structure of functions , documentation and strings hint types,flexibilty of function due to positional parameters0..
+* **Day 03(Part Two)** Learned how recursion works(basic level understanding),LEGB(Local,Enclosing,Global,built in)order etc
