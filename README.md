@@ -26,25 +26,25 @@ Started my Python journey to build a rock-solid foundation and level up my devel
   * Used types hints and docstring in code for better readable code for others.
 
 ### 📁 Day 03(Part Two)
-* **`Guess_number_game.py`
+* **`Guess_number_game.py`**
   * Buit a recursive guessing number game where user guess a secret number chosen by the computer 
 
 ### 📁 Day 04
-* **`cli_word_counter`
+* **`cli_word_counter`**
   * Buit a cli word counter which use Counter from collection module which counts the frequency of word,unique word and occurence and most common word etc
-* **`test.py`
+* **`test.py`**
   * Learnt about Dictionaries, sets and their methods comprehensions union and intersection of sets etc
 
 ### 📁 Day 05
-* **`day05.py`
+* **`day05.py`**
   * some reading and writing File with python
 
 ### 📁 SmartSpend (Compound Project 01)
-* **`main.py`
+* **`main.py`**
   *CLI Financial tool which imports a csv file converts it into a list of many dictionary and runs different operation of it Ex-Recurring spending,Total calculation(DEBIT,CREDIT),categorize wise spending etc and exports data in json file
-* **`transaction.csv`
+* **`transaction.csv`**
   * A dummy csv file containing 100 transaction
-* **`report.json`
+* **`report.json`**
   * json file which has the data of operation which was performed on csv in json format
 ---
 
