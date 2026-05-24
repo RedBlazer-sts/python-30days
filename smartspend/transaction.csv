@@ -1,0 +1,101 @@
+transaction_id,timestamp,category,description,amount,type
+TXN1001,2026-03-01 08:14:22,Transport,Uber Ride,350.00,debit
+TXN1002,2026-03-01 13:30:05,Food,McDonalds Lunch,280.00,debit
+TXN1003,2026-03-02 10:00:00,Salary,Monthly Paycheck,45000.00,credit
+TXN1004,2026-03-02 19:45:12,Entertainment,Netflix Subscription,649.00,debit
+TXN1005,2026-03-03 09:15:43,Food,Local Tea & Snacks,60.00,debit
+TXN1006,2026-03-04 11:20:18,Shopping,Amazon India Order,1499.00,debit
+TXN1007,2026-03-05 16:40:55,Groceries,Supermarket Grocery Run,2350.00,debit
+TXN1008,2026-03-06 21:10:02,Food,Zomato Dinner Delivery,540.00,debit
+TXN1009,2026-03-07 08:45:30,Transport,Auto Rickshaw Fare,120.00,debit
+TXN1010,2026-03-08 14:22:19,Utilities,Mobile Recharge,299.00,debit
+TXN1011,2026-03-09 12:05:00,Food,Coffee Shop,180.00,debit
+TXN1012,2026-03-09 18:30:45,Transport,Metro Smartcard Topup,500.00,debit
+TXN1013,2026-03-10 15:15:33,Shopping,Myntra Clothing,2100.00,debit
+TXN1014,2026-03-12 20:45:11,Food,Swiggy Lunch,320.00,debit
+TXN1015,2026-03-13 11:00:22,Utilities,Electricity Bill,1850.00,debit
+TXN1016,2026-03-14 09:12:40,Transport,Uber Ride,420.00,debit
+TXN1017,2026-03-14 17:55:03,Entertainment,Spotify Premium,119.00,debit
+TXN1018,2026-03-15 13:10:15,Food,Subway Sandwich,240.00,debit
+TXN1019,2026-03-16 19:20:38,Groceries,Local Vegetable Vendor,350.00,debit
+TXN1020,2026-03-17 22:00:12,Entertainment,Movie Tickets BookMyShow,760.00,debit
+TXN1021,2026-03-18 10:30:50,Food,Bakery Items,150.00,debit
+TXN1022,2026-03-19 14:15:22,Transport,Auto Rickshaw Fare,80.00,debit
+TXN1023,2026-03-20 16:45:00,Transfer,Sent to Friend,1200.00,debit
+TXN1024,2026-03-21 11:20:33,Shopping,Local Electronics Store,850.00,debit
+TXN1025,2026-03-22 13:05:14,Food,Restaurant Lunch,1250.00,debit
+TXN1026,2026-03-23 08:50:41,Transport,Uber Ride,290.00,debit
+TXN1027,2026-03-24 17:10:19,Groceries,Blinkit Delivery,680.00,debit
+TXN1028,2026-03-25 19:30:00,Transfer,Received from Friend,500.00,credit
+TXN1029,2026-03-26 12:40:22,Food,College Canteen Lunch,110.00,debit
+TXN1030,2026-03-27 15:55:47,Utilities,Wi-Fi Broadband Bill,799.00,debit
+TXN1031,2026-03-28 09:00:15,Transport,Metro Smartcard Topup,200.00,debit
+TXN1032,2026-03-29 21:15:33,Food,Zomato Biryani Order,480.00,debit
+TXN1033,2026-03-30 14:30:21,Shopping,Amazon Books,450.00,debit
+TXN1034,2026-04-01 09:15:00,Salary,Monthly Paycheck,45000.00,credit
+TXN1035,2026-04-01 18:40:22,Entertainment,Netflix Subscription,649.00,debit
+TXN1036,2026-04-02 08:20:11,Transport,Uber Ride,310.00,debit
+TXN1037,2026-04-02 13:12:45,Food,McDonalds Lunch,295.00,debit
+TXN1038,2026-04-03 16:22:04,Groceries,Zepto Delivery,420.00,debit
+TXN1039,2026-04-04 11:05:50,Food,Local Tea & Snacks,45.00,debit
+TXN1040,2026-04-05 19:50:18,Shopping,Ajio Apparel,1850.00,debit
+TXN1041,2026-04-06 14:10:33,Food,Cafe Coffee Day,220.00,debit
+TXN1042,2026-04-07 08:45:12,Transport,Auto Rickshaw Fare,95.00,debit
+TXN1043,2026-04-08 17:30:25,Utilities,Mobile Recharge,299.00,debit
+TXN1044,2026-04-09 20:15:44,Food,Swiggy Dinner,610.00,debit
+TXN1045,2026-04-10 11:40:02,Groceries,Supermarket Grocery Run,3120.00,debit
+TXN1046,2026-04-11 15:25:19,Shopping,Amazon India Order,999.00,debit
+TXN1047,2026-04-12 09:05:36,Transport,Uber Ride,380.00,debit
+TXN1048,2026-04-12 18:10:00,Entertainment,Spotify Premium,119.00,debit
+TXN1049,2026-04-13 13:00:22,Food,Subway Sandwich,260.00,debit
+TXN1050,2026-04-14 16:45:51,Transfer,Sent to Friend,250.00,debit
+TXN1051,2026-04-15 21:30:12,Entertainment,Movie Tickets BookMyShow,680.00,debit
+TXN1052,2026-04-16 10:15:40,Food,Bakery Items,180.00,debit
+TXN1053,2026-04-17 14:50:27,Transport,Auto Rickshaw Fare,110.00,debit
+TXN1054,2026-04-18 12:35:14,Food,Restaurant Lunch,1540.00,debit
+TXN1055,2026-04-19 08:55:23,Transport,Metro Smartcard Topup,500.00,debit
+TXN1056,2026-04-20 17:05:49,Groceries,Blinkit Delivery,590.00,debit
+TXN1057,2026-04-21 19:22:01,Shopping,Flipkart Purchase,1250.00,debit
+TXN1058,2026-04-22 11:12:35,Food,College Canteen Lunch,95.00,debit
+TXN1059,2026-04-23 15:40:18,Utilities,Electricity Bill,2100.00,debit
+TXN1060,2026-04-24 09:20:44,Transport,Uber Ride,340.00,debit
+TXN1061,2026-04-25 20:50:11,Food,Zomato Pizza Order,720.00,debit
+TXN1062,2026-04-26 14:00:00,Transfer,Received from Friend,1500.00,credit
+TXN1063,2026-04-27 16:30:22,Shopping,Stationery Shop,320.00,debit
+TXN1064,2026-04-28 11:45:57,Utilities,Wi-Fi Broadband Bill,799.00,debit
+TXN1065,2026-04-29 08:35:12,Transport,Auto Rickshaw Fare,70.00,debit
+TXN1066,2026-04-30 19:10:45,Groceries,Local Market Vegetables,280.00,debit
+TXN1067,2026-05-01 10:00:00,Salary,Monthly Paycheck,45000.00,credit
+TXN1068,2026-05-01 18:15:30,Entertainment,Netflix Subscription,649.00,debit
+TXN1069,2026-05-02 08:12:44,Transport,Uber Ride,360.00,debit
+TXN1070,2026-05-02 13:20:15,Food,McDonalds Lunch,310.00,debit
+TXN1071,2026-05-03 16:55:22,Groceries,Zepto Delivery,510.00,debit
+TXN1072,2026-05-04 11:10:03,Food,Local Tea & Snacks,50.00,debit
+TXN1073,2026-05-05 19:40:51,Shopping,Ajio Apparel,2200.00,debit
+TXN1074,2026-05-06 14:25:38,Food,Cafe Coffee Day,240.00,debit
+TXN1075,2026-05-07 08:50:19,Transport,Auto Rickshaw Fare,100.00,debit
+TXN1076,2026-05-08 17:15:12,Utilities,Mobile Recharge,299.00,debit
+TXN1077,2026-05-09 20:30:44,Food,Swiggy Dinner,580.00,debit
+TXN1078,2026-05-10 11:15:22,Groceries,Supermarket Grocery Run,2890.00,debit
+TXN1079,2026-05-11 15:45:01,Shopping,Amazon India Order,1150.00,debit
+TXN1080,2026-05-12 09:10:14,Transport,Uber Ride,390.00,debit
+TXN1081,2026-05-12 18:05:00,Entertainment,Spotify Premium,119.00,debit
+TXN1082,2026-05-13 13:15:33,Food,Subway Sandwich,270.00,debit
+TXN1083,2026-05-14 16:30:12,Transfer,Sent to Friend,400.00,debit
+TXN1084,2026-05-15 21:15:55,Entertainment,Movie Tickets BookMyShow,720.00,debit
+TXN1085,2026-05-16 10:20:41,Food,Bakery Items,160.00,debit
+TXN1086,2026-05-17 14:45:19,Transport,Auto Rickshaw Fare,115.00,debit
+TXN1087,2026-05-18 12:40:52,Food,Restaurant Lunch,1680.00,debit
+TXN1088,2026-05-19 08:48:11,Transport,Metro Smartcard Topup,500.00,debit
+TXN1089,2026-05-20 17:12:30,Groceries,Blinkit Delivery,620.00,debit
+TXN1090,2026-05-21 19:35:44,Shopping,Flipkart Purchase,950.00,debit
+TXN1091,2026-05-22 11:30:15,Food,College Canteen Lunch,105.00,debit
+TXN1092,2026-05-22 15:22:04,Utilities,Electricity Bill,2450.00,debit
+TXN1093,2026-05-23 09:05:11,Transport,Uber Ride,320.00,debit
+TXN1094,2026-05-23 20:15:33,Food,Zomato Pizza Order,690.00,debit
+TXN1095,2025-12-15 14:30:22,Shopping,Pitshirts Full-Sleeve Polo,1199.00,debit
+TXN1096,2025-12-24 18:45:00,Groceries,Local Vendor Kimchi & Broth,450.00,debit
+TXN1097,2026-01-10 11:15:45,Shopping,AJIO Coffee-Colored Pants,1499.00,debit
+TXN1098,2026-01-28 16:20:11,Sports,THP Jump Training Subscription,2500.00,debit
+TXN1099,2026-02-05 07:45:00,Transport,Mumbai to Delhi Train Ticket,1850.00,debit
+TXN1100,2026-02-12 19:30:22,Food,Dalhousie Local Cafe Dinner,850.00,debit

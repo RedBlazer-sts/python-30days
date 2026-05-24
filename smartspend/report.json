@@ -1,0 +1,128 @@
+{
+    "total spendings": {
+        "total amount spend": 203195.0,
+        "total credit": 137000.0,
+        "total debit": 66195.0
+    },
+    "Category wise spendind": {
+        "Transport": 7400.0,
+        "Food": 12510.0,
+        "Salary": 135000.0,
+        "Entertainment": 4464.0,
+        "Shopping": 16316.0,
+        "Groceries": 12260.0,
+        "Utilities": 8895.0,
+        "Transfer": 3850.0,
+        "Sports": 2500.0
+    },
+    "Recurring spending and its count and amount": {
+        "Uber Ride": {
+            "count": 9,
+            "amount": 350.0
+        },
+        "McDonalds Lunch": {
+            "count": 3,
+            "amount": 280.0
+        },
+        "Monthly Paycheck": {
+            "count": 3,
+            "amount": 45000.0
+        },
+        "Netflix Subscription": {
+            "count": 3,
+            "amount": 649.0
+        },
+        "Local Tea & Snacks": {
+            "count": 3,
+            "amount": 60.0
+        },
+        "Amazon India Order": {
+            "count": 3,
+            "amount": 1499.0
+        },
+        "Supermarket Grocery Run": {
+            "count": 3,
+            "amount": 2350.0
+        },
+        "Auto Rickshaw Fare": {
+            "count": 7,
+            "amount": 120.0
+        },
+        "Mobile Recharge": {
+            "count": 3,
+            "amount": 299.0
+        },
+        "Metro Smartcard Topup": {
+            "count": 4,
+            "amount": 500.0
+        },
+        "Electricity Bill": {
+            "count": 3,
+            "amount": 1850.0
+        },
+        "Spotify Premium": {
+            "count": 3,
+            "amount": 119.0
+        },
+        "Subway Sandwich": {
+            "count": 3,
+            "amount": 240.0
+        },
+        "Movie Tickets BookMyShow": {
+            "count": 3,
+            "amount": 760.0
+        },
+        "Bakery Items": {
+            "count": 3,
+            "amount": 150.0
+        },
+        "Sent to Friend": {
+            "count": 3,
+            "amount": 1200.0
+        },
+        "Restaurant Lunch": {
+            "count": 3,
+            "amount": 1250.0
+        },
+        "Blinkit Delivery": {
+            "count": 3,
+            "amount": 680.0
+        },
+        "Received from Friend": {
+            "count": 2,
+            "amount": 500.0
+        },
+        "College Canteen Lunch": {
+            "count": 3,
+            "amount": 110.0
+        },
+        "Wi-Fi Broadband Bill": {
+            "count": 2,
+            "amount": 799.0
+        },
+        "Zepto Delivery": {
+            "count": 2,
+            "amount": 420.0
+        },
+        "Ajio Apparel": {
+            "count": 2,
+            "amount": 1850.0
+        },
+        "Cafe Coffee Day": {
+            "count": 2,
+            "amount": 220.0
+        },
+        "Swiggy Dinner": {
+            "count": 2,
+            "amount": 610.0
+        },
+        "Flipkart Purchase": {
+            "count": 2,
+            "amount": 1250.0
+        },
+        "Zomato Pizza Order": {
+            "count": 2,
+            "amount": 720.0
+        }
+    }
+}
