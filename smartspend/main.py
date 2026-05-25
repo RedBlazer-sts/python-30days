@@ -1,13 +1,20 @@
 import csv
 import json
 def load_transactions():
-    with open("transaction.csv",'r') as f:
-        reader = csv.DictReader(f)
-        list_of_dictionary = []
-        for Individual_transaction in reader:
-            Individual_transaction["amount"] = float(Individual_transaction["amount"])
-            list_of_dictionary.append(Individual_transaction)
+   try:
+        with open("transaction.csv",'r') as f:
+            reader = csv.DictReader(f)
+            list_of_dictionary = []
+            for Individual_transaction in reader:
+                try:
+                    Individual_transaction["amount"] = float(Individual_transaction["amount"])
+                    list_of_dictionary.append(Individual_transaction)
+                except ValueError:
+                    print("invalid amount skipping")    
         return list_of_dictionary
+   except FileNotFoundError:
+       print("Seeked file doesnt exits")
+       return []
 
 data = load_transactions()
     
