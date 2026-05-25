@@ -46,6 +46,10 @@ Started my Python journey to build a rock-solid foundation and level up my devel
   * A dummy csv file containing 100 transaction
 * **`report.json`**
   * json file which has the data of operation which was performed on csv in json format
+
+### 📁 chatbot
+* **`chatbot.py`**
+* Built a CLI chatbot using Groq API Takes user input, sends to Groq server, prints AI response
 ---
 
 ## 🧠 What I Learned
@@ -57,3 +61,4 @@ Started my Python journey to build a rock-solid foundation and level up my devel
 * **Day0 04** Learned how dictionaries and set actually work and their methods
 * **Day 05** Basic File I/0
 * **smartspend** Nested Dictionaries , making complex function , exporting json and importing csv etc
+* **chatbot** installing and use 3rd party sdk , make api call to model, environment variable for API key safety
